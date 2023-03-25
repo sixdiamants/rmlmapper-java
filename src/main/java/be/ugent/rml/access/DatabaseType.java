@@ -27,7 +27,11 @@ public enum DatabaseType {
     DB2("IBM DB2",
             "as400:",
             "ibm",
-            "com.ibm.as400.access.AS400JDBCDriver");
+            "com.ibm.as400.access.AS400JDBCDriver"),
+    MSACCESS("MS Access",
+            "msaccess:",
+            "msaccess",
+            "jdbc:ucanaccess");
 
     private final String name;
     private final String jdbcPrefix;

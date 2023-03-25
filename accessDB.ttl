@@ -1,0 +1,2409 @@
+@prefix d2rq: <http://www.wiwiss.fu-berlin.de/suhl/bizer/D2RQ/0.1#> .
+@prefix db: <http://db.de/rdf/gnd/> .
+@prefix ex: <http://example.com/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix ql: <http://semweb.mmlab.be/ns/ql#> .
+@prefix rml: <http://semweb.mmlab.be/ns/rml#> .
+@prefix rr: <http://www.w3.org/ns/r2rml#> .
+@prefix rsm: <http://ontorail.org/rsm12e/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+_:length6624AO25201101_6624AO25201102 a rsm:Length;
+  rsm:unit "http://qudt.org/vocab/unit/M";
+  rsm:value 8.34251472797594E1 .
+
+_:length6624AO25201102_6624AO25201103 a rsm:Length;
+  rsm:unit "http://qudt.org/vocab/unit/M";
+  rsm:value 4.99999995005085E1 .
+
+_:length6624AO25201103_6624AO25201104 a rsm:Length;
+  rsm:unit "http://qudt.org/vocab/unit/M";
+  rsm:value 2.3748455639E2 .
+
+_:length6624AO25201104_6624AO25201105 a rsm:Length;
+  rsm:unit "http://qudt.org/vocab/unit/M";
+  rsm:value 6.3000009140672E13 .
+
+_:length6624AO25201105_6624AO25201106 a rsm:Length;
+  rsm:unit "http://qudt.org/vocab/unit/M";
+  rsm:value 1.42882286139748E2 .
+
+_:length6624AO25201106_6624AO25201107 a rsm:Length;
+  rsm:unit "http://qudt.org/vocab/unit/M";
+  rsm:value 3.35999995005366E1 .
+
+_:length6624AO25201107_6624AP25201101 a rsm:Length;
+  rsm:unit "http://qudt.org/vocab/unit/M";
+  rsm:value 1.60486632E8 .
+
+_:length6624AP25201101_6624AP25201102 a rsm:Length;
+  rsm:unit "http://qudt.org/vocab/unit/M";
+  rsm:value 1.8000009925049E13 .
+
+_:length6624AP25201102_6624AP25201103 a rsm:Length;
+  rsm:unit "http://qudt.org/vocab/unit/M";
+  rsm:value 1.6953533E1 .
+
+_:length6624AP25201103_6624AP25201104 a rsm:Length;
+  rsm:unit "http://qudt.org/vocab/unit/M";
+  rsm:value 1.8000010056201E13 .
+
+_:length6624AP25201104_6624AP25201105 a rsm:Length;
+  rsm:unit "http://qudt.org/vocab/unit/M";
+  rsm:value 4.257763048E1 .
+
+_:length6624AP25201105_6624AP25201106 a rsm:Length;
+  rsm:unit "http://qudt.org/vocab/unit/M";
+  rsm:value 4.2000009441427E13 .
+
+_:length6624AP25201106_6624AP25201109 a rsm:Length;
+  rsm:unit "http://qudt.org/vocab/unit/M";
+  rsm:value 2.00625554639284E2 .
+
+_:length6624AP25201109_6624AP25201110 a rsm:Length;
+  rsm:unit "http://qudt.org/vocab/unit/M";
+  rsm:value 7.79999995004121E1 .
+
+_:length6624AP25201110_6624AP25201111 a rsm:Length;
+  rsm:unit "http://qudt.org/vocab/unit/M";
+  rsm:value 5.176650649E1 .
+
+_:length6624AP25201111_6624AP25201112 a rsm:Length;
+  rsm:unit "http://qudt.org/vocab/unit/M";
+  rsm:value 1.3444121436067E13 .
+
+_:length6624AP25201112_6624AP25201113 a rsm:Length;
+  rsm:unit "http://qudt.org/vocab/unit/M";
+  rsm:value 1.45036647012754E1 .
+
+_:length6624AP25201113_6624AP25201115 a rsm:Length;
+  rsm:unit "http://qudt.org/vocab/unit/M";
+  rsm:value 3.799999E6 .
+
+_:length6624AP25201115_6624AP25201116 a rsm:Length;
+  rsm:unit "http://qudt.org/vocab/unit/M";
+  rsm:value 7.72289132660378E0 .
+
+_:length6624AP25201116_6624AP25201117 a rsm:Length;
+  rsm:unit "http://qudt.org/vocab/unit/M";
+  rsm:value 2.05000000011105E1 .
+
+_:length6624AP25201117_6624AQ25201101 a rsm:Length;
+  rsm:unit "http://qudt.org/vocab/unit/M";
+  rsm:value 8.819297185E1 .
+
+_:length6624AP25201601_6624AP25201602 a rsm:Length;
+  rsm:unit "http://qudt.org/vocab/unit/M";
+  rsm:value 4.157061494E1 .
+
+_:length6624AP25201602_6624AP25201603 a rsm:Length;
+  rsm:unit "http://qudt.org/vocab/unit/M";
+  rsm:value 1.25925972998411E1 .
+
+_:length6624AP25201603_6624AP25201604 a rsm:Length;
+  rsm:unit "http://qudt.org/vocab/unit/M";
+  rsm:value 4.157061494E1 .
+
+_:length6624AP25201604_6624AP25201605 a rsm:Length;
+  rsm:unit "http://qudt.org/vocab/unit/M";
+  rsm:value 9.92824945886569E1 .
+
+_:length6624AP25201605_6624AP25201606 a rsm:Length;
+  rsm:unit "http://qudt.org/vocab/unit/M";
+  rsm:value 7.74971726809466E1 .
+
+_:length6624AP25201606_6624AP25201607 a rsm:Length;
+  rsm:unit "http://qudt.org/vocab/unit/M";
+  rsm:value 3.148417847E1 .
+
+_:length6624AP25201607_6624AP25201608 a rsm:Length;
+  rsm:unit "http://qudt.org/vocab/unit/M";
+  rsm:value 2.3000009880917E13 .
+
+_:length6624AP25201608_6624AP25201609 a rsm:Length;
+  rsm:unit "http://qudt.org/vocab/unit/M";
+  rsm:value 5.85509279612016E1 .
+
+_:length6624AP25201609_6624AP25201610 a rsm:Length;
+  rsm:unit "http://qudt.org/vocab/unit/M";
+  rsm:value 3.6000000030359E13 .
+
+_:length6624AP25201610_6624AQ25201601 a rsm:Length;
+  rsm:unit "http://qudt.org/vocab/unit/M";
+  rsm:value 8.154967559E1 .
+
+_:length6624AP25201620_6624AP25201624 a rsm:Length;
+  rsm:unit "http://qudt.org/vocab/unit/M";
+  rsm:value 1.6868058740826E13 .
+
+_:length6624AP25201624_6624AP25201625 a rsm:Length;
+  rsm:unit "http://qudt.org/vocab/unit/M";
+  rsm:value 5.191928121E1 .
+
+_:length6624AP25201625_6624AP25201627 a rsm:Length;
+  rsm:unit "http://qudt.org/vocab/unit/M";
+  rsm:value 2.28430675403349E1 .
+
+_:length6624AP25201627_6624AP25201629 a rsm:Length;
+  rsm:unit "http://qudt.org/vocab/unit/M";
+  rsm:value 2.124871E6 .
+
+_:length6624AP25201660_6624AP25201663 a rsm:Length;
+  rsm:unit "http://qudt.org/vocab/unit/M";
+  rsm:value 1.64901034039563E2 .
+
+_:length6624AP25201663_6624AP25201664 a rsm:Length;
+  rsm:unit "http://qudt.org/vocab/unit/M";
+  rsm:value 7.294415321E1 .
+
+_:length6624AP25201664_6624AP25201666 a rsm:Length;
+  rsm:unit "http://qudt.org/vocab/unit/M";
+  rsm:value 2.71380529626244E1 .
+
+_:length6624AP25201666_6624AP25201667 a rsm:Length;
+  rsm:unit "http://qudt.org/vocab/unit/M";
+  rsm:value 1.02457557E8 .
+
+_:length6624AP25201667_6624AP25201669 a rsm:Length;
+  rsm:unit "http://qudt.org/vocab/unit/M";
+  rsm:value 3.71310838808895E1 .
+
+_:length6624AQ25201101_6624AQ25201102 a rsm:Length;
+  rsm:unit "http://qudt.org/vocab/unit/M";
+  rsm:value 3.84000009455375E1 .
+
+_:length6624AQ25201102_6624AQ25201103 a rsm:Length;
+  rsm:unit "http://qudt.org/vocab/unit/M";
+  rsm:value 5.63382295170353E2 .
+
+_:length6624AQ25201103_6624AQ25201104 a rsm:Length;
+  rsm:unit "http://qudt.org/vocab/unit/M";
+  rsm:value 6.69999994999084E1 .
+
+_:length6624AQ25201104_6624AR25201101 a rsm:Length;
+  rsm:unit "http://qudt.org/vocab/unit/M";
+  rsm:value 1.0140630403E2 .
+
+_:length6624AQ25201601_6624AQ25201602 a rsm:Length;
+  rsm:unit "http://qudt.org/vocab/unit/M";
+  rsm:value 3.84000009508017E1 .
+
+_:length6624AQ25201602_6624AQ25201603 a rsm:Length;
+  rsm:unit "http://qudt.org/vocab/unit/M";
+  rsm:value 5.68709835181218E2 .
+
+_:length6624AQ25201603_6624AQ25201604 a rsm:Length;
+  rsm:unit "http://qudt.org/vocab/unit/M";
+  rsm:value 5.21999995005186E1 .
+
+_:length6624AQ25201604_6624AR25201601 a rsm:Length;
+  rsm:unit "http://qudt.org/vocab/unit/M";
+  rsm:value 1.1014917279E2 .
+
+_:length6624AR25201101_6624AR25201103 a rsm:Length;
+  rsm:unit "http://qudt.org/vocab/unit/M";
+  rsm:value 6.700000924584E12 .
+
+_:length6624AR25201103_6624AR25201105 a rsm:Length;
+  rsm:unit "http://qudt.org/vocab/unit/M";
+  rsm:value 7.1225239013029E13 .
+
+_:length6624AR25201105_6624AR25201106 a rsm:Length;
+  rsm:unit "http://qudt.org/vocab/unit/M";
+  rsm:value 5.79999994994043E1 .
+
+_:length6624AR25201106_6624AR25201109 a rsm:Length;
+  rsm:unit "http://qudt.org/vocab/unit/M";
+  rsm:value 1.2789644271E2 .
+
+_:length6624AR25201109_6624AR25201110 a rsm:Length;
+  rsm:unit "http://qudt.org/vocab/unit/M";
+  rsm:value 5.8000009101359E13 .
+
+_:length6624AR25201110_6624AR25201111 a rsm:Length;
+  rsm:unit "http://qudt.org/vocab/unit/M";
+  rsm:value 1.34109103130564E2 .
+
+_:length6624AR25201111_6624AR25201112 a rsm:Length;
+  rsm:unit "http://qudt.org/vocab/unit/M";
+  rsm:value 4.14999995000954E1 .
+
+_:length6624AR25201112_6624AR25201113 a rsm:Length;
+  rsm:unit "http://qudt.org/vocab/unit/M";
+  rsm:value 2.9347376996E2 .
+
+_:length6624AR25201113_6624AR25201114 a rsm:Length;
+  rsm:unit "http://qudt.org/vocab/unit/M";
+  rsm:value 4.15000008241649E1 .
+
+_:length6624AR25201114_6624AS25201101 a rsm:Length;
+  rsm:unit "http://qudt.org/vocab/unit/M";
+  rsm:value 6.31255512529627E2 .
+
+_:length6624AR25201601_6624AR25201602 a rsm:Length;
+  rsm:unit "http://qudt.org/vocab/unit/M";
+  rsm:value 3.0000009392541E13 .
+
+_:length6624AR25201602_6624AR25201603 a rsm:Length;
+  rsm:unit "http://qudt.org/vocab/unit/M";
+  rsm:value 4.373667307E1 .
+
+_:length6624AR25201603_6624AR25201604 a rsm:Length;
+  rsm:unit "http://qudt.org/vocab/unit/M";
+  rsm:value 1.500001021942E12 .
+
+_:length6624AR25201604_6624AR25201606 a rsm:Length;
+  rsm:unit "http://qudt.org/vocab/unit/M";
+  rsm:value 1.47004196804926E1 .
+
+_:length6624AR25201606_6624AR25201607 a rsm:Length;
+  rsm:unit "http://qudt.org/vocab/unit/M";
+  rsm:value 3.565373139E1 .
+
+_:length6624AS25201101_6624AS25201102 a rsm:Length;
+  rsm:unit "http://qudt.org/vocab/unit/M";
+  rsm:value 5.09999995012534E1 .
+
+_:length6624AS25201102_6624AT25201101 a rsm:Length;
+  rsm:unit "http://qudt.org/vocab/unit/M";
+  rsm:value 1.2048635093E2 .
+
+_:length6624AT25201101_6624AT25201102 a rsm:Length;
+  rsm:unit "http://qudt.org/vocab/unit/M";
+  rsm:value 5.1000008867347E13 .
+
+_:length6624AT25201102_6624AT25201103 a rsm:Length;
+  rsm:unit "http://qudt.org/vocab/unit/M";
+  rsm:value 8.51085554396901E1 .
+
+_:length6624AT25201103_6624AT25201104 a rsm:Length;
+  rsm:unit "http://qudt.org/vocab/unit/M";
+  rsm:value 6.29999994998579E1 .
+
+_:length6624AT25201104_6624AU25201101 a rsm:Length;
+  rsm:unit "http://qudt.org/vocab/unit/M";
+  rsm:value 3.35175144198734E2 .
+
+_:length6624AU25201101_6624AU25201102 a rsm:Length;
+  rsm:unit "http://qudt.org/vocab/unit/M";
+  rsm:value 6.9000002341897E13 .
+
+_:length6624AU25201102_6624AU25201103 a rsm:Length;
+  rsm:unit "http://qudt.org/vocab/unit/M";
+  rsm:value 5.87498930506627E1 .
+
+_:length6624AU25201103_6624AU25201104 a rsm:Length;
+  rsm:unit "http://qudt.org/vocab/unit/M";
+  rsm:value 5.99999995008228E1 .
+
+_:length6624AU25201104_6624AV25201101 a rsm:Length;
+  rsm:unit "http://qudt.org/vocab/unit/M";
+  rsm:value 6.95479711E8 .
+
+_:length6624AV25201101_6624AV25201102 a rsm:Length;
+  rsm:unit "http://qudt.org/vocab/unit/M";
+  rsm:value 6.0000009210147E13 .
+
+_:length6624AV25201102_6624AV25201103 a rsm:Length;
+  rsm:unit "http://qudt.org/vocab/unit/M";
+  rsm:value 9.91725693814391E1 .
+
+_:length6624AV25201103_6624AV25201104 a rsm:Length;
+  rsm:unit "http://qudt.org/vocab/unit/M";
+  rsm:value 7.49999995027054E1 .
+
+_:length6624AV25201104_6624AW25201101 a rsm:Length;
+  rsm:unit "http://qudt.org/vocab/unit/M";
+  rsm:value 2.1927689893E2 .
+
+_:length6624AW25201101_6624AW25201102 a rsm:Length;
+  rsm:unit "http://qudt.org/vocab/unit/M";
+  rsm:value 7.2000005529928E13 .
+
+_:length6624AW25201102_6624AX25201101 a rsm:Length;
+  rsm:unit "http://qudt.org/vocab/unit/M";
+  rsm:value 3.00639658660362E2 .
+
+db:6624AO%201101 a rsm:SpotLocation;
+  rsm:coordinates db:6624AO%201101%20ER0 .
+
+db:6624AO%201101%206624AO%201102 a rsm:HorizontalSegmentLine;
+  rsm:length _:length6624AO201101_6624AO201102;
+  rsm:value 8.34251472797594E1 .
+
+db:6624AO%201101_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60229280214885E6;
+  rsm:Y 4.56522182588002E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AO%201102 a rsm:SpotLocation;
+  rsm:coordinates db:6624AO%201102%20ER0 .
+
+db:6624AO%201102%206624AO%201103 a rsm:HorizontalSegmentLine;
+  rsm:length _:length6624AO201102_6624AO201103;
+  rsm:value 4.99999995005085E1 .
+
+db:6624AO%201102_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60225167358427E6;
+  rsm:Y 4.56514924353723E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AO%201103 a rsm:SpotLocation;
+  rsm:coordinates db:6624AO%201103%20ER0 .
+
+db:6624AO%201103%206624AO%201104 a rsm:HorizontalSegmentLine;
+  rsm:length _:length6624AO201103_6624AO201104;
+  rsm:value 2.3748455639E2 .
+
+db:6624AO%201103_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60222629033654E6;
+  rsm:Y 4.56510617252208E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AO%201104 a rsm:SpotLocation;
+  rsm:coordinates db:6624AO%201104%20ER0 .
+
+db:6624AO%201104%206624AO%201105 a rsm:HorizontalSegmentLine;
+  rsm:length _:length6624AO201104_6624AO201105;
+  rsm:value 6.3000009140672E13 .
+
+db:6624AO%201104_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60205614267183E6;
+  rsm:Y 4.56494383553388E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AO%201105 a rsm:SpotLocation;
+  rsm:coordinates db:6624AO%201105%20ER0 .
+
+db:6624AO%201105%206624AO%201106 a rsm:HorizontalSegmentLine;
+  rsm:length _:length6624AO201105_6624AO201106;
+  rsm:value 1.42882286139748E2 .
+
+db:6624AO%201105_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60200017719609E6;
+  rsm:Y 4.56491493211173E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AO%201106 a rsm:SpotLocation;
+  rsm:coordinates db:6624AO%201106%20ER0 .
+
+db:6624AO%201106%206624AO%201107 a rsm:HorizontalSegmentLine;
+  rsm:length _:length6624AO201106_6624AO201107;
+  rsm:value 3.35999995005366E1 .
+
+db:6624AO%201106_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60187185005699E6;
+  rsm:Y 4.56485210303358E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AO%201107 a rsm:SpotLocation;
+  rsm:coordinates db:6624AO%201107%20ER0 .
+
+db:6624AO%201107%206624AP%201101 a rsm:HorizontalSegmentLine;
+  rsm:length _:length6624AO201107_6624AP201101;
+  rsm:value 1.60486632E8 .
+
+db:6624AO%201107_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.6018425901676E13;
+  rsm:Y 4.56483658241586E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AO%201301 a rsm:SpotLocation;
+  rsm:coordinates db:6624AO%201301%20ER0 .
+
+db:6624AO%201301_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60229280214868E6;
+  rsm:Y 4.56522182587972E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AO%201302 a rsm:SpotLocation;
+  rsm:coordinates db:6624AO%201302%20ER0 .
+
+db:6624AO%201302_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60225167358393E6;
+  rsm:Y 4.56514924353664E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AO%201303 a rsm:SpotLocation;
+  rsm:coordinates db:6624AO%201303%20ER0 .
+
+db:6624AO%201303_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60222629033599E6;
+  rsm:Y 4.56510617252123E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AO%201304 a rsm:SpotLocation;
+  rsm:coordinates db:6624AO%201304%20ER0 .
+
+db:6624AO%201304_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60205614267096E6;
+  rsm:Y 4.56494383553338E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AO%201305 a rsm:SpotLocation;
+  rsm:coordinates db:6624AO%201305%20ER0 .
+
+db:6624AO%201305_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60200017719433E6;
+  rsm:Y 4.56491493211087E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AO%201306 a rsm:SpotLocation;
+  rsm:coordinates db:6624AO%201306%20ER0 .
+
+db:6624AO%201306_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.6019218430277E6;
+  rsm:Y 4.56487657963523E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AO%201307 a rsm:SpotLocation;
+  rsm:coordinates db:6624AO%201307%20ER0 .
+
+db:6624AO%201307_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60192184302725E6;
+  rsm:Y 4.56487657963501E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AO%201308 a rsm:SpotLocation;
+  rsm:coordinates db:6624AO%201308%20ER0 .
+
+db:6624AO%201308_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60187185005388E6;
+  rsm:Y 4.56485210303206E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AO%201309 a rsm:SpotLocation;
+  rsm:coordinates db:6624AO%201309%20ER0 .
+
+db:6624AO%201309_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.6018425901347E13;
+  rsm:Y 4.56483658241397E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AO%205004 a rsm:SpotLocation;
+  rsm:coordinates db:6624AO%205004%20ER0 .
+
+db:6624AO%205004_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60225167358823E6;
+  rsm:Y 4.56514924354423E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AO%205006 a rsm:SpotLocation;
+  rsm:coordinates db:6624AO%205006%20ER0 .
+
+db:6624AO%205006_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.6019616298249E13;
+  rsm:Y 4.56489578175897E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AO%205008 a rsm:SpotLocation;
+  rsm:coordinates db:6624AO%205008%20ER0 .
+
+db:6624AO%205008_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.6019431003445E6;
+  rsm:Y 4.56488698723589E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AO%205015 a rsm:SpotLocation;
+  rsm:coordinates db:6624AO%205015%20ER0 .
+
+db:6624AO%205015_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60189728413209E6;
+  rsm:Y 4.56486455557872E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AO%205017 a rsm:SpotLocation;
+  rsm:coordinates db:6624AO%205017%20ER0 .
+
+db:6624AO%205017_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.6018792490979E13;
+  rsm:Y 4.56485561584771E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AP%201101 a rsm:SpotLocation;
+  rsm:coordinates db:6624AP%201101%20ER0 .
+
+db:6624AP%201101%206624AP%201102 a rsm:HorizontalSegmentLine;
+  rsm:length _:length6624AP201101_6624AP201102;
+  rsm:value 1.8000009925049E13 .
+
+db:6624AP%201101_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60182855309965E6;
+  rsm:Y 4.5648280121411E13;
+  rsm:positioningSystem "ER0" .
+
+db:6624AP%201102 a rsm:SpotLocation;
+  rsm:coordinates db:6624AP%201102%20ER0 .
+
+db:6624AP%201102%206624AP%201103 a rsm:HorizontalSegmentLine;
+  rsm:length _:length6624AP201102_6624AP201103;
+  rsm:value 1.6953533E1 .
+
+db:6624AP%201102_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.6018146948913E13;
+  rsm:Y 4.56481731835073E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AP%201103 a rsm:SpotLocation;
+  rsm:coordinates db:6624AP%201103%20ER0 .
+
+db:6624AP%201103%206624AP%201104 a rsm:HorizontalSegmentLine;
+  rsm:length _:length6624AP201103_6624AP201104;
+  rsm:value 1.8000010056201E13 .
+
+db:6624AP%201103_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60180091513585E6;
+  rsm:Y 4.56480662498484E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AP%201104 a rsm:SpotLocation;
+  rsm:coordinates db:6624AP%201104%20ER0 .
+
+db:6624AP%201104%206624AP%201105 a rsm:HorizontalSegmentLine;
+  rsm:length _:length6624AP201104_6624AP201105;
+  rsm:value 4.257763048E1 .
+
+db:6624AP%201104_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60178750805427E6;
+  rsm:Y 4.56479461908652E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AP%201105 a rsm:SpotLocation;
+  rsm:coordinates db:6624AP%201105%20ER0 .
+
+db:6624AP%201105%206624AP%201106 a rsm:HorizontalSegmentLine;
+  rsm:length _:length6624AP201105_6624AP201106;
+  rsm:value 4.2000009441427E13 .
+
+db:6624AP%201105_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60175994974783E6;
+  rsm:Y 4.56476225605238E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AP%201106 a rsm:SpotLocation;
+  rsm:coordinates db:6624AP%201106%20ER0 .
+
+db:6624AP%201106%206624AP%201109 a rsm:HorizontalSegmentLine;
+  rsm:length _:length6624AP201106_6624AP201109;
+  rsm:value 2.00625554639284E2 .
+
+db:6624AP%201106_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60173837589517E6;
+  rsm:Y 4.56472624153666E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AP%201109 a rsm:SpotLocation;
+  rsm:coordinates db:6624AP%201109%20ER0 .
+
+db:6624AP%201109%206624AP%201110 a rsm:HorizontalSegmentLine;
+  rsm:length _:length6624AP201109_6624AP201110;
+  rsm:value 7.79999995004121E1 .
+
+db:6624AP%201109_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60164098773511E6;
+  rsm:Y 4.56455083868762E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AP%201110 a rsm:SpotLocation;
+  rsm:coordinates db:6624AP%201110%20ER0 .
+
+db:6624AP%201110%206624AP%201111 a rsm:HorizontalSegmentLine;
+  rsm:length _:length6624AP201110_6624AP201111;
+  rsm:value 5.176650649E1 .
+
+db:6624AP%201110_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60160570243108E6;
+  rsm:Y 4.56448132440295E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AP%201111 a rsm:SpotLocation;
+  rsm:coordinates db:6624AP%201111%20ER0 .
+
+db:6624AP%201111%206624AP%201112 a rsm:HorizontalSegmentLine;
+  rsm:length _:length6624AP201111_6624AP201112;
+  rsm:value 1.3444121436067E13 .
+
+db:6624AP%201111_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60158936131972E6;
+  rsm:Y 4.56443225447545E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AP%201112 a rsm:SpotLocation;
+  rsm:coordinates db:6624AP%201112%20ER0 .
+
+db:6624AP%201112%206624AP%201113 a rsm:HorizontalSegmentLine;
+  rsm:length _:length6624AP201112_6624AP201113;
+  rsm:value 1.45036647012754E1 .
+
+db:6624AP%201112_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.6015863689695E6;
+  rsm:Y 4.56441955840839E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AP%201113 a rsm:SpotLocation;
+  rsm:coordinates db:6624AP%201113%20ER0 .
+
+db:6624AP%201113%206624AP%201115 a rsm:HorizontalSegmentLine;
+  rsm:length _:length6624AP201113_6624AP201115;
+  rsm:value 3.799999E6 .
+
+db:6624AP%201113_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60158340348204E6;
+  rsm:Y 4.56440536150941E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AP%201114 a rsm:SpotLocation;
+  rsm:coordinates db:6624AP%201114%20ER0 .
+
+db:6624AP%201114_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60158267663576E6;
+  rsm:Y 4.56440152698847E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AP%201115 a rsm:SpotLocation;
+  rsm:coordinates db:6624AP%201115%20ER0 .
+
+db:6624AP%201115%206624AP%201116 a rsm:HorizontalSegmentLine;
+  rsm:length _:length6624AP201115_6624AP201116;
+  rsm:value 7.72289132660378E0 .
+
+db:6624AP%201115_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60157852352118E6;
+  rsm:Y 4.56436860769729E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AP%201116 a rsm:SpotLocation;
+  rsm:coordinates db:6624AP%201116%20ER0 .
+
+db:6624AP%201116%206624AP%201117 a rsm:HorizontalSegmentLine;
+  rsm:length _:length6624AP201116_6624AP201117;
+  rsm:value 2.05000000011105E1 .
+
+db:6624AP%201116_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.6015783616371E13;
+  rsm:Y 4.56436090026271E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AP%201117 a rsm:SpotLocation;
+  rsm:coordinates db:6624AP%201117%20ER0 .
+
+db:6624AP%201117%206624AQ%201101 a rsm:HorizontalSegmentLine;
+  rsm:length _:length6624AP201117_6624AQ201101;
+  rsm:value 8.819297185E1 .
+
+db:6624AP%201117_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.6015774739544E6;
+  rsm:Y 4.56434041191172E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AP%201301 a rsm:SpotLocation;
+  rsm:coordinates db:6624AP%201301%20ER0 .
+
+db:6624AP%201301_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60182855309648E6;
+  rsm:Y 4.5648280121202E13;
+  rsm:positioningSystem "ER0" .
+
+db:6624AP%201302 a rsm:SpotLocation;
+  rsm:coordinates db:6624AP%201302%20ER0 .
+
+db:6624AP%201302_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.6018146948503E13;
+  rsm:Y 4.56481731834766E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AP%201303 a rsm:SpotLocation;
+  rsm:coordinates db:6624AP%201303%20ER0 .
+
+db:6624AP%201303_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60180091513185E6;
+  rsm:Y 4.56480662498162E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AP%201304 a rsm:SpotLocation;
+  rsm:coordinates db:6624AP%201304%20ER0 .
+
+db:6624AP%201304_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.6017875080495E6;
+  rsm:Y 4.56479461908215E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AP%201305 a rsm:SpotLocation;
+  rsm:coordinates db:6624AP%201305%20ER0 .
+
+db:6624AP%201305_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60175994388135E6;
+  rsm:Y 4.56476224757663E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AP%201306 a rsm:SpotLocation;
+  rsm:coordinates db:6624AP%201306%20ER0 .
+
+db:6624AP%201306_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60173837177055E6;
+  rsm:Y 4.5647262320164E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AP%201307 a rsm:SpotLocation;
+  rsm:coordinates db:6624AP%201307%20ER0 .
+
+db:6624AP%201307_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60163917886441E6;
+  rsm:Y 4.56454755833308E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AP%201308 a rsm:SpotLocation;
+  rsm:coordinates db:6624AP%201308%20ER0 .
+
+db:6624AP%201308_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.6016144765752E13;
+  rsm:Y 4.56449977517889E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AP%201309 a rsm:SpotLocation;
+  rsm:coordinates db:6624AP%201309%20ER0 .
+
+db:6624AP%201309_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.6015889403413E6;
+  rsm:Y 4.5644307613119E13;
+  rsm:positioningSystem "ER0" .
+
+db:6624AP%201310 a rsm:SpotLocation;
+  rsm:coordinates db:6624AP%201310%20ER0 .
+
+db:6624AP%201310_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60157777399574E6;
+  rsm:Y 4.5643574821825E13;
+  rsm:positioningSystem "ER0" .
+
+db:6624AP%201311 a rsm:SpotLocation;
+  rsm:coordinates db:6624AP%201311%20ER0 .
+
+db:6624AP%201311_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60157740130295E6;
+  rsm:Y 4.56434025516894E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AP%201601 a rsm:SpotLocation;
+  rsm:coordinates db:6624AP%201601%20ER0 .
+
+db:6624AP%201601%206624AP%201602 a rsm:HorizontalSegmentLine;
+  rsm:length _:length6624AP201601_6624AP201602;
+  rsm:value 4.157061494E1 .
+
+db:6624AP%201601_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60173546336438E6;
+  rsm:Y 4.56472099585881E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AP%201602 a rsm:SpotLocation;
+  rsm:coordinates db:6624AP%201602%20ER0 .
+
+db:6624AP%201602%206624AP%201603 a rsm:HorizontalSegmentLine;
+  rsm:length _:length6624AP201602_6624AP201603;
+  rsm:value 1.25925972998411E1 .
+
+db:6624AP%201602_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60171681727839E6;
+  rsm:Y 4.56468385498687E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AP%201603 a rsm:SpotLocation;
+  rsm:coordinates db:6624AP%201603%20ER0 .
+
+db:6624AP%201603%206624AP%201604 a rsm:HorizontalSegmentLine;
+  rsm:length _:length6624AP201603_6624AP201604;
+  rsm:value 4.157061494E1 .
+
+db:6624AP%201603_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60171163994844E6;
+  rsm:Y 4.56467237592974E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AP%201604 a rsm:SpotLocation;
+  rsm:coordinates db:6624AP%201604%20ER0 .
+
+db:6624AP%201604%206624AP%201605 a rsm:HorizontalSegmentLine;
+  rsm:length _:length6624AP201604_6624AP201605;
+  rsm:value 9.92824945886569E1 .
+
+db:6624AP%201604_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60169299386225E6;
+  rsm:Y 4.56463523505714E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AP%201605 a rsm:SpotLocation;
+  rsm:coordinates db:6624AP%201605%20ER0 .
+
+db:6624AP%201605%206624AP%201606 a rsm:HorizontalSegmentLine;
+  rsm:length _:length6624AP201605_6624AP201606;
+  rsm:value 7.74971726809466E1 .
+
+db:6624AP%201605_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60164479990533E6;
+  rsm:Y 4.56454843438906E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AP%201606 a rsm:SpotLocation;
+  rsm:coordinates db:6624AP%201606%20ER0 .
+
+db:6624AP%201606%206624AP%201607 a rsm:HorizontalSegmentLine;
+  rsm:length _:length6624AP201606_6624AP201607;
+  rsm:value 3.148417847E1 .
+
+db:6624AP%201606_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60160975897573E6;
+  rsm:Y 4.56447936027292E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AP%201607 a rsm:SpotLocation;
+  rsm:coordinates db:6624AP%201607%20ER0 .
+
+db:6624AP%201607%206624AP%201608 a rsm:HorizontalSegmentLine;
+  rsm:length _:length6624AP201607_6624AP201608;
+  rsm:value 2.3000009880917E13 .
+
+db:6624AP%201607_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60159899255196E6;
+  rsm:Y 4.56444978575828E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AP%201608 a rsm:SpotLocation;
+  rsm:coordinates db:6624AP%201608%20ER0 .
+
+db:6624AP%201608%206624AP%201609 a rsm:HorizontalSegmentLine;
+  rsm:length _:length6624AP201608_6624AP201609;
+  rsm:value 5.85509279612016E1 .
+
+db:6624AP%201608_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60159282611725E6;
+  rsm:Y 4.564427631749E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AP%201609 a rsm:SpotLocation;
+  rsm:coordinates db:6624AP%201609%20ER0 .
+
+db:6624AP%201609%206624AP%201610 a rsm:HorizontalSegmentLine;
+  rsm:length _:length6624AP201609_6624AP201610;
+  rsm:value 3.6000000030359E13 .
+
+db:6624AP%201609_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60158322279375E6;
+  rsm:Y 4.56436993033603E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AP%201610 a rsm:SpotLocation;
+  rsm:coordinates db:6624AP%201610%20ER0 .
+
+db:6624AP%201610%206624AQ%201601 a rsm:HorizontalSegmentLine;
+  rsm:length _:length6624AP201610_6624AQ201601;
+  rsm:value 8.154967559E1 .
+
+db:6624AP%201610_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60158215470517E6;
+  rsm:Y 4.56433397256876E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AP%201620 a rsm:SpotLocation;
+  rsm:coordinates db:6624AP%201620%20ER0 .
+
+db:6624AP%201620%206624AP%201624 a rsm:HorizontalSegmentLine;
+  rsm:length _:length6624AP201620_6624AP201624;
+  rsm:value 1.6868058740826E13 .
+
+db:6624AP%201620_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60169141760653E6;
+  rsm:Y 4.56465371774293E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AP%201624 a rsm:SpotLocation;
+  rsm:coordinates db:6624AP%201624%20ER0 .
+
+db:6624AP%201624%206624AP%201625 a rsm:HorizontalSegmentLine;
+  rsm:length _:length6624AP201624_6624AP201625;
+  rsm:value 5.191928121E1 .
+
+db:6624AP%201624_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60160983358734E6;
+  rsm:Y 4.56450677925102E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AP%201625 a rsm:SpotLocation;
+  rsm:coordinates db:6624AP%201625%20ER0 .
+
+db:6624AP%201625%206624AP%201627 a rsm:HorizontalSegmentLine;
+  rsm:length _:length6624AP201625_6624AP201627;
+  rsm:value 2.28430675403349E1 .
+
+db:6624AP%201625_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60159110667718E6;
+  rsm:Y 4.56445852800426E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AP%201627 a rsm:SpotLocation;
+  rsm:coordinates db:6624AP%201627%20ER0 .
+
+db:6624AP%201627%206624AP%201629 a rsm:HorizontalSegmentLine;
+  rsm:length _:length6624AP201627_6624AP201629;
+  rsm:value 2.124871E6 .
+
+db:6624AP%201627_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.6015858192248E6;
+  rsm:Y 4.56443630530075E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AP%201628 a rsm:SpotLocation;
+  rsm:coordinates db:6624AP%201628%20ER0 .
+
+db:6624AP%201628_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60158431508279E6;
+  rsm:Y 4.5644294186056E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AP%201629 a rsm:SpotLocation;
+  rsm:coordinates db:6624AP%201629%20ER0 .
+
+db:6624AP%201629_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.6015829308392E13;
+  rsm:Y 4.56441562414469E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AP%201660 a rsm:SpotLocation;
+  rsm:coordinates db:6624AP%201660%20ER0 .
+
+db:6624AP%201660%206624AP%201663 a rsm:HorizontalSegmentLine;
+  rsm:length _:length6624AP201660_6624AP201663;
+  rsm:value 1.64901034039563E2 .
+
+db:6624AP%201660_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60168792048774E6;
+  rsm:Y 4.56465565943297E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AP%201663 a rsm:SpotLocation;
+  rsm:coordinates db:6624AP%201663%20ER0 .
+
+db:6624AP%201663%206624AP%201664 a rsm:HorizontalSegmentLine;
+  rsm:length _:length6624AP201663_6624AP201664;
+  rsm:value 7.294415321E1 .
+
+db:6624AP%201663_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60160787381363E6;
+  rsm:Y 4.56451148980645E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AP%201664 a rsm:SpotLocation;
+  rsm:coordinates db:6624AP%201664%20ER0 .
+
+db:6624AP%201664%206624AP%201666 a rsm:HorizontalSegmentLine;
+  rsm:length _:length6624AP201664_6624AP201666;
+  rsm:value 2.71380529626244E1 .
+
+db:6624AP%201664_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.6015854207628E6;
+  rsm:Y 4.56444255740326E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AP%201665 a rsm:SpotLocation;
+  rsm:coordinates db:6624AP%201665%20ER0 .
+
+db:6624AP%201665_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60158380675615E6;
+  rsm:Y 4.56442949410505E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AP%201666 a rsm:SpotLocation;
+  rsm:coordinates db:6624AP%201666%20ER0 .
+
+db:6624AP%201666%206624AP%201667 a rsm:HorizontalSegmentLine;
+  rsm:length _:length6624AP201666_6624AP201667;
+  rsm:value 1.02457557E8 .
+
+db:6624AP%201666_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.601582930841E12;
+  rsm:Y 4.56441562414432E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AP%201667 a rsm:SpotLocation;
+  rsm:coordinates db:6624AP%201667%20ER0 .
+
+db:6624AP%201667%206624AP%201669 a rsm:HorizontalSegmentLine;
+  rsm:length _:length6624AP201667_6624AP201669;
+  rsm:value 3.71310838808895E1 .
+
+db:6624AP%201667_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60158112683316E6;
+  rsm:Y 4.56440564741231E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AP%201668 a rsm:SpotLocation;
+  rsm:coordinates db:6624AP%201668%20ER0 .
+
+db:6624AP%201668_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60158085339926E6;
+  rsm:Y 4.56440175701016E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AP%201669 a rsm:SpotLocation;
+  rsm:coordinates db:6624AP%201669%20ER0 .
+
+db:6624AP%201669_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60157852352576E6;
+  rsm:Y 4.56436860770212E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AP%205000 a rsm:SpotLocation;
+  rsm:coordinates db:6624AP%205000%20ER0 .
+
+db:6624AP%205000_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60176591869552E6;
+  rsm:Y 4.56477045557097E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AP%205002 a rsm:SpotLocation;
+  rsm:coordinates db:6624AP%205002%20ER0 .
+
+db:6624AP%205002_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.6017543564893E6;
+  rsm:Y 4.56475378424246E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AP%205004 a rsm:SpotLocation;
+  rsm:coordinates db:6624AP%205004%20ER0 .
+
+db:6624AP%205004_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60164168908556E6;
+  rsm:Y 4.56455210186855E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AP%205006 a rsm:SpotLocation;
+  rsm:coordinates db:6624AP%205006%20ER0 .
+
+db:6624AP%205006_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60158030108923E6;
+  rsm:Y 4.56438634491461E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AP%205008 a rsm:SpotLocation;
+  rsm:coordinates db:6624AP%205008%20ER0 .
+
+db:6624AP%205008_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60157836931058E6;
+  rsm:Y 4.56436634702343E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AP%205401 a rsm:SpotLocation;
+  rsm:coordinates db:6624AP%205401%20ER0 .
+
+db:6624AP%205401_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60173546334602E6;
+  rsm:Y 4.56472099582575E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AP%205404 a rsm:SpotLocation;
+  rsm:coordinates db:6624AP%205404%20ER0 .
+
+db:6624AP%205404_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.6016456234491E6;
+  rsm:Y 4.56454991764867E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AP%205406 a rsm:SpotLocation;
+  rsm:coordinates db:6624AP%205406%20ER0 .
+
+db:6624AP%205406_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60159288443607E6;
+  rsm:Y 4.56442786915258E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AP%205408 a rsm:SpotLocation;
+  rsm:coordinates db:6624AP%205408%20ER0 .
+
+db:6624AP%205408_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60158856403926E6;
+  rsm:Y 4.5644088833502E13;
+  rsm:positioningSystem "ER0" .
+
+db:6624AP%205409 a rsm:SpotLocation;
+  rsm:coordinates db:6624AP%205409%20ER0 .
+
+db:6624AP%205409_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60158552249944E6;
+  rsm:Y 4.56438981546692E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AP%205411 a rsm:SpotLocation;
+  rsm:coordinates db:6624AP%205411%20ER0 .
+
+db:6624AP%205411_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60158319949599E6;
+  rsm:Y 4.56436966905688E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AP%205412 a rsm:SpotLocation;
+  rsm:coordinates db:6624AP%205412%20ER0 .
+
+db:6624AP%205412_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60158213454787E6;
+  rsm:Y 4.56433445443422E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AP%205414 a rsm:SpotLocation;
+  rsm:coordinates db:6624AP%205414%20ER0 .
+
+db:6624AP%205414_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60158396887247E6;
+  rsm:Y 4.5643141984193E13;
+  rsm:positioningSystem "ER0" .
+
+db:6624AP%205421 a rsm:SpotLocation;
+  rsm:coordinates db:6624AP%205421%20ER0 .
+
+db:6624AP%205421_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60169141744921E6;
+  rsm:Y 4.56465371745959E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AP%205423 a rsm:SpotLocation;
+  rsm:coordinates db:6624AP%205423%20ER0 .
+
+db:6624AP%205423_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60159363713281E6;
+  rsm:Y 4.5644685795448E13;
+  rsm:positioningSystem "ER0" .
+
+db:6624AP%205425 a rsm:SpotLocation;
+  rsm:coordinates db:6624AP%205425%20ER0 .
+
+db:6624AP%205425_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60158882408732E6;
+  rsm:Y 4.56444893447717E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AP%205426 a rsm:SpotLocation;
+  rsm:coordinates db:6624AP%205426%20ER0 .
+
+db:6624AP%205426_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60158357810078E6;
+  rsm:Y 4.56442550206836E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AP%205428 a rsm:SpotLocation;
+  rsm:coordinates db:6624AP%205428%20ER0 .
+
+db:6624AP%205428_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60158211007249E6;
+  rsm:Y 4.56441576123567E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AP%205430 a rsm:SpotLocation;
+  rsm:coordinates db:6624AP%205430%20ER0 .
+
+db:6624AP%205430_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.6015829308854E13;
+  rsm:Y 4.56441562418211E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AP%205461 a rsm:SpotLocation;
+  rsm:coordinates db:6624AP%205461%20ER0 .
+
+db:6624AP%205461_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60168792023784E6;
+  rsm:Y 4.56465565898287E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AP%205463 a rsm:SpotLocation;
+  rsm:coordinates db:6624AP%205463%20ER0 .
+
+db:6624AP%205463_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60159060149971E6;
+  rsm:Y 4.56446895635569E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AP%205465 a rsm:SpotLocation;
+  rsm:coordinates db:6624AP%205465%20ER0 .
+
+db:6624AP%205465_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60158646952017E6;
+  rsm:Y 4.56444987343797E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AP%205466 a rsm:SpotLocation;
+  rsm:coordinates db:6624AP%205466%20ER0 .
+
+db:6624AP%205466_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.6015833155771E6;
+  rsm:Y 4.56442551864541E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AP%205468 a rsm:SpotLocation;
+  rsm:coordinates db:6624AP%205468%20ER0 .
+
+db:6624AP%205468_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60158113069051E6;
+  rsm:Y 4.56440570218122E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AP%205469 a rsm:SpotLocation;
+  rsm:coordinates db:6624AP%205469%20ER0 .
+
+db:6624AP%205469_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60158113070274E6;
+  rsm:Y 4.56440570235449E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AP%205471 a rsm:SpotLocation;
+  rsm:coordinates db:6624AP%205471%20ER0 .
+
+db:6624AP%205471_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60157854218668E6;
+  rsm:Y 4.56436887320863E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AP%205473 a rsm:SpotLocation;
+  rsm:coordinates db:6624AP%205473%20ER0 .
+
+db:6624AP%205473_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60157852352073E6;
+  rsm:Y 4.56436860763062E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AQ%201101 a rsm:SpotLocation;
+  rsm:coordinates db:6624AQ%201101%20ER0 .
+
+db:6624AQ%201101%206624AQ%201102 a rsm:HorizontalSegmentLine;
+  rsm:length _:length6624AQ201101_6624AQ201102;
+  rsm:value 3.84000009455375E1 .
+
+db:6624AQ%201101_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60159669035874E6;
+  rsm:Y 4.5642550066042E13;
+  rsm:positioningSystem "ER0" .
+
+db:6624AQ%201102 a rsm:SpotLocation;
+  rsm:coordinates db:6624AQ%201102%20ER0 .
+
+db:6624AQ%201102%206624AQ%201103 a rsm:HorizontalSegmentLine;
+  rsm:length _:length6624AQ201102_6624AQ201103;
+  rsm:value 5.63382295170353E2 .
+
+db:6624AQ%201102_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60161483149119E6;
+  rsm:Y 4.56422117221023E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AQ%201103 a rsm:SpotLocation;
+  rsm:coordinates db:6624AQ%201103%20ER0 .
+
+db:6624AQ%201103%206624AQ%201104 a rsm:HorizontalSegmentLine;
+  rsm:length _:length6624AQ201103_6624AQ201104;
+  rsm:value 6.69999994999084E1 .
+
+db:6624AQ%201103_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.6018969073737E13;
+  rsm:Y 4.5637331972695E13;
+  rsm:positioningSystem "ER0" .
+
+db:6624AQ%201104 a rsm:SpotLocation;
+  rsm:coordinates db:6624AQ%201104%20ER0 .
+
+db:6624AQ%201104%206624AR%201101 a rsm:HorizontalSegmentLine;
+  rsm:length _:length6624AQ201104_6624AR201101;
+  rsm:value 1.0140630403E2 .
+
+db:6624AQ%201104_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60192751717774E6;
+  rsm:Y 4.56367389284473E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AQ%201301 a rsm:SpotLocation;
+  rsm:coordinates db:6624AQ%201301%20ER0 .
+
+db:6624AQ%201301_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.6015968234682E6;
+  rsm:Y 4.5642552915398E13;
+  rsm:positioningSystem "ER0" .
+
+db:6624AQ%201302 a rsm:SpotLocation;
+  rsm:coordinates db:6624AQ%201302%20ER0 .
+
+db:6624AQ%201302_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60161387007092E6;
+  rsm:Y 4.56422333450203E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AQ%201303 a rsm:SpotLocation;
+  rsm:coordinates db:6624AQ%201303%20ER0 .
+
+db:6624AQ%201303_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60189990439006E6;
+  rsm:Y 4.56372642212977E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AQ%201306 rsm:coordinates db:6624AQ%201306%20ER0;
+  a rsm:SpotLocation .
+
+db:6624AQ%201306_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.6019244979507E6;
+  rsm:Y 4.56368062608617E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AQ%201601 a rsm:SpotLocation;
+  rsm:coordinates db:6624AQ%201601%20ER0 .
+
+db:6624AQ%201601%206624AQ%201602 a rsm:HorizontalSegmentLine;
+  rsm:length _:length6624AQ201601_6624AQ201602;
+  rsm:value 3.84000009508017E1 .
+
+db:6624AQ%201601_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60160119086937E6;
+  rsm:Y 4.56425520189166E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AQ%201602 a rsm:SpotLocation;
+  rsm:coordinates db:6624AQ%201602%20ER0 .
+
+db:6624AQ%201602%206624AQ%201603 a rsm:HorizontalSegmentLine;
+  rsm:length _:length6624AQ201602_6624AQ201603;
+  rsm:value 5.68709835181218E2 .
+
+db:6624AQ%201602_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.6016193320024E6;
+  rsm:Y 4.56422137344176E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AQ%201603 a rsm:SpotLocation;
+  rsm:coordinates db:6624AQ%201603%20ER0 .
+
+db:6624AQ%201603%206624AQ%201604 a rsm:HorizontalSegmentLine;
+  rsm:length _:length6624AQ201603_6624AQ201604;
+  rsm:value 5.21999995005186E1 .
+
+db:6624AQ%201603_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60190325093435E6;
+  rsm:Y 4.56372860481786E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AQ%201604 a rsm:SpotLocation;
+  rsm:coordinates db:6624AQ%201604%20ER0 .
+
+db:6624AQ%201604%206624AR%201601 a rsm:HorizontalSegmentLine;
+  rsm:length _:length6624AQ201604_6624AR201601;
+  rsm:value 1.1014917279E2 .
+
+db:6624AQ%201604_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60192797119563E6;
+  rsm:Y 4.56368264949956E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AQ%205000 a rsm:SpotLocation;
+  rsm:coordinates db:6624AQ%205000%20ER0 .
+
+db:6624AQ%205000_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60158848353809E6;
+  rsm:Y 4.56427564588099E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AQ%205002 a rsm:SpotLocation;
+  rsm:coordinates db:6624AQ%205002%20ER0 .
+
+db:6624AQ%205002_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60159577014452E6;
+  rsm:Y 4.5642572860098E13;
+  rsm:positioningSystem "ER0" .
+
+db:6624AQ%205004 a rsm:SpotLocation;
+  rsm:coordinates db:6624AQ%205004%20ER0 .
+
+db:6624AQ%205004_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60173335722814E6;
+  rsm:Y 4.56401545938972E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AQ%205006 a rsm:SpotLocation;
+  rsm:coordinates db:6624AQ%205006%20ER0 .
+
+db:6624AQ%205006_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60182195106034E6;
+  rsm:Y 4.56386169626984E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AQ%205008 a rsm:SpotLocation;
+  rsm:coordinates db:6624AQ%205008%20ER0 .
+
+db:6624AQ%205008_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60183194597443E6;
+  rsm:Y 4.56384434913476E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AQ%205400 a rsm:SpotLocation;
+  rsm:coordinates db:6624AQ%205400%20ER0 .
+
+db:6624AQ%205400_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.6015924310343E6;
+  rsm:Y 4.56427750879944E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AQ%205402 a rsm:SpotLocation;
+  rsm:coordinates db:6624AQ%205402%20ER0 .
+
+db:6624AQ%205402_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60159978899128E6;
+  rsm:Y 4.56425831465655E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AQ%205404 a rsm:SpotLocation;
+  rsm:coordinates db:6624AQ%205404%20ER0 .
+
+db:6624AQ%205404_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60173682393028E6;
+  rsm:Y 4.56401745489635E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AQ%205406 a rsm:SpotLocation;
+  rsm:coordinates db:6624AQ%205406%20ER0 .
+
+db:6624AQ%205406_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60182542928589E6;
+  rsm:Y 4.56386367177644E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AQ%205408 a rsm:SpotLocation;
+  rsm:coordinates db:6624AQ%205408%20ER0 .
+
+db:6624AQ%205408_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60183540115956E6;
+  rsm:Y 4.56384636463023E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AR%201101 a rsm:SpotLocation;
+  rsm:coordinates db:6624AR%201101%20ER0 .
+
+db:6624AR%201101%206624AR%201103 a rsm:HorizontalSegmentLine;
+  rsm:length _:length6624AR201101_6624AR201103;
+  rsm:value 6.700000924584E12 .
+
+db:6624AR%201101_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60195114044308E6;
+  rsm:Y 4.56357579272114E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AR%201103 a rsm:SpotLocation;
+  rsm:coordinates db:6624AR%201103%20ER0 .
+
+db:6624AR%201103%206624AR%201105 a rsm:HorizontalSegmentLine;
+  rsm:length _:length6624AR201103_6624AR201105;
+  rsm:value 7.1225239013029E13 .
+
+db:6624AR%201103_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.6019507459114E13;
+  rsm:Y 4.56350884144524E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AR%201105 a rsm:SpotLocation;
+  rsm:coordinates db:6624AR%201105%20ER0 .
+
+db:6624AR%201105%206624AR%201106 a rsm:HorizontalSegmentLine;
+  rsm:length _:length6624AR201105_6624AR201106;
+  rsm:value 5.79999994994043E1 .
+
+db:6624AR%201105_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60194651807948E6;
+  rsm:Y 4.56343790802487E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AR%201106 a rsm:SpotLocation;
+  rsm:coordinates db:6624AR%201106%20ER0 .
+
+db:6624AR%201106%206624AR%201109 a rsm:HorizontalSegmentLine;
+  rsm:length _:length6624AR201106_6624AR201109;
+  rsm:value 1.2789644271E2 .
+
+db:6624AR%201106_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60194527276978E6;
+  rsm:Y 4.56337994581851E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AR%201109 a rsm:SpotLocation;
+  rsm:coordinates db:6624AR%201109%20ER0 .
+
+db:6624AR%201109%206624AR%201110 a rsm:HorizontalSegmentLine;
+  rsm:length _:length6624AR201109_6624AR201110;
+  rsm:value 5.8000009101359E13 .
+
+db:6624AR%201109_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60197737698523E6;
+  rsm:Y 4.56325711680128E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AR%201110 a rsm:SpotLocation;
+  rsm:coordinates db:6624AR%201110%20ER0 .
+
+db:6624AR%201110%206624AR%201111 a rsm:HorizontalSegmentLine;
+  rsm:length _:length6624AR201110_6624AR201111;
+  rsm:value 1.34109103130564E2 .
+
+db:6624AR%201110_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60200682499121E6;
+  rsm:Y 4.56320717700619E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AR%201111 a rsm:SpotLocation;
+  rsm:coordinates db:6624AR%201111%20ER0 .
+
+db:6624AR%201111%206624AR%201112 a rsm:HorizontalSegmentLine;
+  rsm:length _:length6624AR201111_6624AR201112;
+  rsm:value 4.14999995000954E1 .
+
+db:6624AR%201111_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60207822143181E6;
+  rsm:Y 4.56309365256032E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AR%201112 a rsm:SpotLocation;
+  rsm:coordinates db:6624AR%201112%20ER0 .
+
+db:6624AR%201112%206624AR%201113 a rsm:HorizontalSegmentLine;
+  rsm:length _:length6624AR201112_6624AR201113;
+  rsm:value 2.9347376996E2 .
+
+db:6624AR%201112_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.6020997032862E6;
+  rsm:Y 4.56305815086915E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AR%201113 a rsm:SpotLocation;
+  rsm:coordinates db:6624AR%201113%20ER0 .
+
+db:6624AR%201113%206624AR%201114 a rsm:HorizontalSegmentLine;
+  rsm:length _:length6624AR201113_6624AR201114;
+  rsm:value 4.15000008241649E1 .
+
+db:6624AR%201113_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60214080781189E6;
+  rsm:Y 4.56277414199177E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AR%201114 a rsm:SpotLocation;
+  rsm:coordinates db:6624AR%201114%20ER0 .
+
+db:6624AR%201114%206624AS%201101 a rsm:HorizontalSegmentLine;
+  rsm:length _:length6624AR201114_6624AS201101;
+  rsm:value 6.31255512529627E2 .
+
+db:6624AR%201114_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60213027290095E6;
+  rsm:Y 4.5627340652346E13;
+  rsm:positioningSystem "ER0" .
+
+db:6624AR%201301 a rsm:SpotLocation;
+  rsm:coordinates db:6624AR%201301%20ER0 .
+
+db:6624AR%201301_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60195152193741E6;
+  rsm:Y 4.56356830232713E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AR%201302 a rsm:SpotLocation;
+  rsm:coordinates db:6624AR%201302%20ER0 .
+
+db:6624AR%201302_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60195045013221E6;
+  rsm:Y 4.56351633144908E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AR%201303 a rsm:SpotLocation;
+  rsm:coordinates db:6624AR%201303%20ER0 .
+
+db:6624AR%201303_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60194619260622E6;
+  rsm:Y 4.56343141653501E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AR%201304 a rsm:SpotLocation;
+  rsm:coordinates db:6624AR%201304%20ER0 .
+
+db:6624AR%201304_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.6019454879886E13;
+  rsm:Y 4.56338644203196E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AR%201305 a rsm:SpotLocation;
+  rsm:coordinates db:6624AR%201305%20ER0 .
+
+db:6624AR%201305_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.6019803603887E6;
+  rsm:Y 4.56325134180287E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AR%201306 a rsm:SpotLocation;
+  rsm:coordinates db:6624AR%201306%20ER0 .
+
+db:6624AR%201306_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60200336475643E6;
+  rsm:Y 4.56321267898654E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AR%201307 a rsm:SpotLocation;
+  rsm:coordinates db:6624AR%201307%20ER0 .
+
+db:6624AR%201307_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60207822144571E6;
+  rsm:Y 4.5630936525471E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AR%201308 a rsm:SpotLocation;
+  rsm:coordinates db:6624AR%201308%20ER0 .
+
+db:6624AR%201308_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60209970329952E6;
+  rsm:Y 4.56305815085521E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AR%201309 a rsm:SpotLocation;
+  rsm:coordinates db:6624AR%201309%20ER0 .
+
+db:6624AR%201309_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.6021408078122E6;
+  rsm:Y 4.56277414197477E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AR%201601 a rsm:SpotLocation;
+  rsm:coordinates db:6624AR%201601%20ER0 .
+
+db:6624AR%201601%206624AR%201602 a rsm:HorizontalSegmentLine;
+  rsm:length _:length6624AR201601_6624AR201602;
+  rsm:value 3.0000009392541E13 .
+
+db:6624AR%201601_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60195510118614E6;
+  rsm:Y 4.5635765396777E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AR%201602 a rsm:SpotLocation;
+  rsm:coordinates db:6624AR%201602%20ER0 .
+
+db:6624AR%201602%206624AR%201603 a rsm:HorizontalSegmentLine;
+  rsm:length _:length6624AR201602_6624AR201603;
+  rsm:value 4.373667307E1 .
+
+db:6624AR%201602_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60195575001052E6;
+  rsm:Y 4.56354655498142E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AR%201603 a rsm:SpotLocation;
+  rsm:coordinates db:6624AR%201603%20ER0 .
+
+db:6624AR%201603%206624AR%201604 a rsm:HorizontalSegmentLine;
+  rsm:length _:length6624AR201603_6624AR201604;
+  rsm:value 1.500001021942E12 .
+
+db:6624AR%201603_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.6019539113606E13;
+  rsm:Y 4.56350291404813E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AR%201604 a rsm:SpotLocation;
+  rsm:coordinates db:6624AR%201604%20ER0 .
+
+db:6624AR%201604%206624AR%201606 a rsm:HorizontalSegmentLine;
+  rsm:length _:length6624AR201604_6624AR201606;
+  rsm:value 1.47004196804926E1 .
+
+db:6624AR%201604_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.6019513513349E6;
+  rsm:Y 4.563488154467E12;
+  rsm:positioningSystem "ER0" .
+
+db:6624AR%201606 a rsm:SpotLocation;
+  rsm:coordinates db:6624AR%201606%20ER0 .
+
+db:6624AR%201606%206624AR%201607 a rsm:HorizontalSegmentLine;
+  rsm:length _:length6624AR201606_6624AR201607;
+  rsm:value 3.565373139E1 .
+
+db:6624AR%201606_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60194957102244E6;
+  rsm:Y 4.56347342322871E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AR%201607 a rsm:SpotLocation;
+  rsm:coordinates db:6624AR%201607%20ER0 .
+
+db:6624AR%201607_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60194651808775E6;
+  rsm:Y 4.56343790801523E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AR%205001 a rsm:SpotLocation;
+  rsm:coordinates db:6624AR%205001%20ER0 .
+
+db:6624AR%205001_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.6019503934556E6;
+  rsm:Y 4.56358513495381E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AR%205004 a rsm:SpotLocation;
+  rsm:coordinates db:6624AR%205004%20ER0 .
+
+db:6624AR%205004_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.6019454734798E13;
+  rsm:Y 4.56338644626327E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AR%205006 a rsm:SpotLocation;
+  rsm:coordinates db:6624AR%205006%20ER0 .
+
+db:6624AR%205006_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60201249259536E6;
+  rsm:Y 4.5631981651897E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AR%205008 a rsm:SpotLocation;
+  rsm:coordinates db:6624AR%205008%20ER0 .
+
+db:6624AR%205008_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60202317610167E6;
+  rsm:Y 4.56318117780037E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AR%205009 a rsm:SpotLocation;
+  rsm:coordinates db:6624AR%205009%20ER0 .
+
+db:6624AR%205009_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.6020905024414E13;
+  rsm:Y 4.56307463268133E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AR%205011 a rsm:SpotLocation;
+  rsm:coordinates db:6624AR%205011%20ER0 .
+
+db:6624AR%205011_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60210033703503E6;
+  rsm:Y 4.5630571263263E13;
+  rsm:positioningSystem "ER0" .
+
+db:6624AR%205012 a rsm:SpotLocation;
+  rsm:coordinates db:6624AR%205012%20ER0 .
+
+db:6624AR%205012_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60211364678371E6;
+  rsm:Y 4.56303079363062E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AR%205014 a rsm:SpotLocation;
+  rsm:coordinates db:6624AR%205014%20ER0 .
+
+db:6624AR%205014_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60212187279858E6;
+  rsm:Y 4.56301171941092E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AR%205015 a rsm:SpotLocation;
+  rsm:coordinates db:6624AR%205015%20ER0 .
+
+db:6624AR%205015_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.6021333537477E6;
+  rsm:Y 4.5629796466278E13;
+  rsm:positioningSystem "ER0" .
+
+db:6624AR%205017 a rsm:SpotLocation;
+  rsm:coordinates db:6624AR%205017%20ER0 .
+
+db:6624AR%205017_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.6021396326103E6;
+  rsm:Y 4.56295592985262E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AR%205401 a rsm:SpotLocation;
+  rsm:coordinates db:6624AR%205401%20ER0 .
+
+db:6624AR%205401_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60195437588173E6;
+  rsm:Y 4.56358551735382E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AR%205404 a rsm:SpotLocation;
+  rsm:coordinates db:6624AR%205404%20ER0 .
+
+db:6624AR%205404_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60194651808906E6;
+  rsm:Y 4.56343790804133E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AS%201101 a rsm:SpotLocation;
+  rsm:coordinates db:6624AS%201101%20ER0 .
+
+db:6624AS%201101%206624AS%201102 a rsm:HorizontalSegmentLine;
+  rsm:length _:length6624AS201101_6624AS201102;
+  rsm:value 5.09999995012534E1 .
+
+db:6624AS%201101_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60195950064502E6;
+  rsm:Y 4.56212628918893E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AS%201102 a rsm:SpotLocation;
+  rsm:coordinates db:6624AS%201102%20ER0 .
+
+db:6624AS%201102%206624AT%201101 a rsm:HorizontalSegmentLine;
+  rsm:length _:length6624AS201102_6624AT201101;
+  rsm:value 1.2048635093E2 .
+
+db:6624AS%201102_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60194722419885E6;
+  rsm:Y 4.56207681429007E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AS%201301 a rsm:SpotLocation;
+  rsm:coordinates db:6624AS%201301%20ER0 .
+
+db:6624AS%201301_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60213027290005E6;
+  rsm:Y 4.5627340650585E13;
+  rsm:positioningSystem "ER0" .
+
+db:6624AS%201302 a rsm:SpotLocation;
+  rsm:coordinates db:6624AS%201302%20ER0 .
+
+db:6624AS%201302_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60195756463545E6;
+  rsm:Y 4.56211939960943E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AS%201303 a rsm:SpotLocation;
+  rsm:coordinates db:6624AS%201303%20ER0 .
+
+db:6624AS%201303_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60194866215217E6;
+  rsm:Y 4.56208452628512E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AS%205000 a rsm:SpotLocation;
+  rsm:coordinates db:6624AS%205000%20ER0 .
+
+db:6624AS%205000_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60213298234747E6;
+  rsm:Y 4.56274368607127E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AS%205002 a rsm:SpotLocation;
+  rsm:coordinates db:6624AS%205002%20ER0 .
+
+db:6624AS%205002_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60212755539449E6;
+  rsm:Y 4.56272433589063E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AS%205003 a rsm:SpotLocation;
+  rsm:coordinates db:6624AS%205003%20ER0 .
+
+db:6624AS%205003_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60205594080501E6;
+  rsm:Y 4.56246948519962E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AS%205005 a rsm:SpotLocation;
+  rsm:coordinates db:6624AS%205005%20ER0 .
+
+db:6624AS%205005_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60205053024613E6;
+  rsm:Y 4.56245023095716E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AS%205006 a rsm:SpotLocation;
+  rsm:coordinates db:6624AS%205006%20ER0 .
+
+db:6624AS%205006_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60201582027562E6;
+  rsm:Y 4.56232671059582E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AS%205008 a rsm:SpotLocation;
+  rsm:coordinates db:6624AS%205008%20ER0 .
+
+db:6624AS%205008_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60201037972398E6;
+  rsm:Y 4.56230734961986E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AS%205009 a rsm:SpotLocation;
+  rsm:coordinates db:6624AS%205009%20ER0 .
+
+db:6624AS%205009_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.6019486826071E6;
+  rsm:Y 4.56208451785933E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AS%205011 a rsm:SpotLocation;
+  rsm:coordinates db:6624AS%205011%20ER0 .
+
+db:6624AS%205011_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.6019454420011E6;
+  rsm:Y 4.56206478754484E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AS%205012 a rsm:SpotLocation;
+  rsm:coordinates db:6624AS%205012%20ER0 .
+
+db:6624AS%205012_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60194357862332E6;
+  rsm:Y 4.56203638580134E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AS%205014 a rsm:SpotLocation;
+  rsm:coordinates db:6624AS%205014%20ER0 .
+
+db:6624AS%205014_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60194424884952E6;
+  rsm:Y 4.56201593777285E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AT%201101 a rsm:SpotLocation;
+  rsm:coordinates db:6624AT%201101%20ER0 .
+
+db:6624AT%201101%206624AT%201102 a rsm:HorizontalSegmentLine;
+  rsm:length _:length6624AT201101_6624AT201102;
+  rsm:value 5.1000008867347E13 .
+
+db:6624AT%201101_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60195561801934E6;
+  rsm:Y 4.5619577955721E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AT%201102 a rsm:SpotLocation;
+  rsm:coordinates db:6624AT%201102%20ER0 .
+
+db:6624AT%201102%206624AT%201103 a rsm:HorizontalSegmentLine;
+  rsm:length _:length6624AT201102_6624AT201103;
+  rsm:value 8.51085554396901E1 .
+
+db:6624AT%201102_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60197471687033E6;
+  rsm:Y 4.56191053342384E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AT%201103 a rsm:SpotLocation;
+  rsm:coordinates db:6624AT%201103%20ER0 .
+
+db:6624AT%201103%206624AT%201104 a rsm:HorizontalSegmentLine;
+  rsm:length _:length6624AT201103_6624AT201104;
+  rsm:value 6.29999994998579E1 .
+
+db:6624AT%201103_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.6020091299833E13;
+  rsm:Y 4.5618326409222E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AT%201104 a rsm:SpotLocation;
+  rsm:coordinates db:6624AT%201104%20ER0 .
+
+db:6624AT%201104%206624AU%201101 a rsm:HorizontalSegmentLine;
+  rsm:length _:length6624AT201104_6624AU201101;
+  rsm:value 3.35175144198734E2 .
+
+db:6624AT%201104_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60203254599441E6;
+  rsm:Y 4.5617742363798E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AT%201301 a rsm:SpotLocation;
+  rsm:coordinates db:6624AT%201301%20ER0 .
+
+db:6624AT%201301_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60195812415011E6;
+  rsm:Y 4.56195036169611E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AT%201302 a rsm:SpotLocation;
+  rsm:coordinates db:6624AT%201302%20ER0 .
+
+db:6624AT%201302_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60197183307177E6;
+  rsm:Y 4.5619178304698E13;
+  rsm:positioningSystem "ER0" .
+
+db:6624AT%201303 a rsm:SpotLocation;
+  rsm:coordinates db:6624AT%201303%20ER0 .
+
+db:6624AT%201303_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60201277338524E6;
+  rsm:Y 4.56182410043891E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AT%201304 a rsm:SpotLocation;
+  rsm:coordinates db:6624AT%201304%20ER0 .
+
+db:6624AT%201304_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60202950378614E6;
+  rsm:Y 4.56178341683036E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AT%205000 a rsm:SpotLocation;
+  rsm:coordinates db:6624AT%205000%20ER0 .
+
+db:6624AT%205000_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60197183386185E6;
+  rsm:Y 4.5619178361197E13;
+  rsm:positioningSystem "ER0" .
+
+db:6624AT%205002 a rsm:SpotLocation;
+  rsm:coordinates db:6624AT%205002%20ER0 .
+
+db:6624AT%205002_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60197989237137E6;
+  rsm:Y 4.56189877895629E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AT%205003 a rsm:SpotLocation;
+  rsm:coordinates db:6624AT%205003%20ER0 .
+
+db:6624AT%205003_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60204130736374E6;
+  rsm:Y 4.56162752809996E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AT%205005 a rsm:SpotLocation;
+  rsm:coordinates db:6624AT%205005%20ER0 .
+
+db:6624AT%205005_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60203687989749E6;
+  rsm:Y 4.5616082817124E13;
+  rsm:positioningSystem "ER0" .
+
+db:6624AU%201101 a rsm:SpotLocation;
+  rsm:coordinates db:6624AU%201101%20ER0 .
+
+db:6624AU%201101%206624AU%201102 a rsm:HorizontalSegmentLine;
+  rsm:length _:length6624AU201101_6624AU201102;
+  rsm:value 6.9000002341897E13 .
+
+db:6624AU%201101_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60195277058864E6;
+  rsm:Y 4.56146665123756E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AU%201102 a rsm:SpotLocation;
+  rsm:coordinates db:6624AU%201102%20ER0 .
+
+db:6624AU%201102%206624AU%201103 a rsm:HorizontalSegmentLine;
+  rsm:length _:length6624AU201102_6624AU201103;
+  rsm:value 5.87498930506627E1 .
+
+db:6624AU%201102_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60189885669957E6;
+  rsm:Y 4.56142365841577E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AU%201103 a rsm:SpotLocation;
+  rsm:coordinates db:6624AU%201103%20ER0 .
+
+db:6624AU%201103%206624AU%201104 a rsm:HorizontalSegmentLine;
+  rsm:length _:length6624AU201103_6624AU201104;
+  rsm:value 5.99999995008228E1 .
+
+db:6624AU%201103_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60185167848426E6;
+  rsm:Y 4.5613886474756E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AU%201104 a rsm:SpotLocation;
+  rsm:coordinates db:6624AU%201104%20ER0 .
+
+db:6624AU%201104%206624AV%201101 a rsm:HorizontalSegmentLine;
+  rsm:length _:length6624AU201104_6624AV201101;
+  rsm:value 6.95479711E8 .
+
+db:6624AU%201104_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60180536013911E6;
+  rsm:Y 4.56135059976896E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AU%201301 a rsm:SpotLocation;
+  rsm:coordinates db:6624AU%201301%20ER0 .
+
+db:6624AU%201301_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60194679418461E6;
+  rsm:Y 4.56146118806752E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AU%201302 a rsm:SpotLocation;
+  rsm:coordinates db:6624AU%201302%20ER0 .
+
+db:6624AU%201302_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60190520267521E6;
+  rsm:Y 4.56142836776107E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AU%201303 a rsm:SpotLocation;
+  rsm:coordinates db:6624AU%201303%20ER0 .
+
+db:6624AU%201303_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60185167846576E6;
+  rsm:Y 4.56138864746048E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AU%201304 a rsm:SpotLocation;
+  rsm:coordinates db:6624AU%201304%20ER0 .
+
+db:6624AU%201304_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60180536012286E6;
+  rsm:Y 4.56135059975073E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AU%205000 a rsm:SpotLocation;
+  rsm:coordinates db:6624AU%205000%20ER0 .
+
+db:6624AU%205000_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.602010501868E12;
+  rsm:Y 4.56154064443987E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AU%205002 a rsm:SpotLocation;
+  rsm:coordinates db:6624AU%205002%20ER0 .
+
+db:6624AU%205002_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60199980287902E6;
+  rsm:Y 4.56152334459114E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AU%205003 a rsm:SpotLocation;
+  rsm:coordinates db:6624AU%205003%20ER0 .
+
+db:6624AU%205003_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60187233536314E6;
+  rsm:Y 4.56140397693954E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AU%205005 a rsm:SpotLocation;
+  rsm:coordinates db:6624AU%205005%20ER0 .
+
+db:6624AU%205005_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60185616267153E6;
+  rsm:Y 4.5613919751897E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AV%201101 a rsm:SpotLocation;
+  rsm:coordinates db:6624AV%201101%20ER0 .
+
+db:6624AV%201101%206624AV%201102 a rsm:HorizontalSegmentLine;
+  rsm:length _:length6624AV201101_6624AV201102;
+  rsm:value 6.0000009210147E13 .
+
+db:6624AV%201101_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60176573817583E6;
+  rsm:Y 4.56129444944695E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AV%201102 a rsm:SpotLocation;
+  rsm:coordinates db:6624AV%201102%20ER0 .
+
+db:6624AV%201102%206624AV%201103 a rsm:HorizontalSegmentLine;
+  rsm:length _:length6624AV201102_6624AV201103;
+  rsm:value 9.91725693814391E1 .
+
+db:6624AV%201102_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60174541616551E6;
+  rsm:Y 4.5612385766574E13;
+  rsm:positioningSystem "ER0" .
+
+db:6624AV%201103 a rsm:SpotLocation;
+  rsm:coordinates db:6624AV%201103%20ER0 .
+
+db:6624AV%201103%206624AV%201104 a rsm:HorizontalSegmentLine;
+  rsm:length _:length6624AV201103_6624AV201104;
+  rsm:value 7.49999995027054E1 .
+
+db:6624AV%201103_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60171642786346E6;
+  rsm:Y 4.5611432163411E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AV%201104 a rsm:SpotLocation;
+  rsm:coordinates db:6624AV%201104%20ER0 .
+
+db:6624AV%201104%206624AW%201101 a rsm:HorizontalSegmentLine;
+  rsm:length _:length6624AV201104_6624AW201101;
+  rsm:value 2.1927689893E2 .
+
+db:6624AV%201104_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.6016908907678E13;
+  rsm:Y 4.56107311971398E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AV%201301 a rsm:SpotLocation;
+  rsm:coordinates db:6624AV%201301%20ER0 .
+
+db:6624AV%201301_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60176573816684E6;
+  rsm:Y 4.5612944494236E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AV%201302 a rsm:SpotLocation;
+  rsm:coordinates db:6624AV%201302%20ER0 .
+
+db:6624AV%201302_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60174541615983E6;
+  rsm:Y 4.5612385764009E13;
+  rsm:positioningSystem "ER0" .
+
+db:6624AV%201303 a rsm:SpotLocation;
+  rsm:coordinates db:6624AV%201303%20ER0 .
+
+db:6624AV%201303_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60171642785741E6;
+  rsm:Y 4.5611432163145E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AV%201304 a rsm:SpotLocation;
+  rsm:coordinates db:6624AV%201304%20ER0 .
+
+db:6624AV%201304_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.601690890656E12;
+  rsm:Y 4.56107311968913E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AV%205000 a rsm:SpotLocation;
+  rsm:coordinates db:6624AV%205000%20ER0 .
+
+db:6624AV%205000_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.6017752109525E6;
+  rsm:Y 4.5613125303498E13;
+  rsm:positioningSystem "ER0" .
+
+db:6624AV%205002 a rsm:SpotLocation;
+  rsm:coordinates db:6624AV%205002%20ER0 .
+
+db:6624AV%205002_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60176573756495E6;
+  rsm:Y 4.56129444816408E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AV%205003 a rsm:SpotLocation;
+  rsm:coordinates db:6624AV%205003%20ER0 .
+
+db:6624AV%205003_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60174541575021E6;
+  rsm:Y 4.5612385630698E13;
+  rsm:positioningSystem "ER0" .
+
+db:6624AV%205005 a rsm:SpotLocation;
+  rsm:coordinates db:6624AV%205005%20ER0 .
+
+db:6624AV%205005_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60173956971793E6;
+  rsm:Y 4.56121892978334E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AV%205006 a rsm:SpotLocation;
+  rsm:coordinates db:6624AV%205006%20ER0 .
+
+db:6624AV%205006_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.601690896126E12;
+  rsm:Y 4.56107312073056E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AV%205008 a rsm:SpotLocation;
+  rsm:coordinates db:6624AV%205008%20ER0 .
+
+db:6624AV%205008_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60167989157597E6;
+  rsm:Y 4.561055925863E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AW%201101 a rsm:SpotLocation;
+  rsm:coordinates db:6624AW%201101%20ER0 .
+
+db:6624AW%201101%206624AW%201102 a rsm:HorizontalSegmentLine;
+  rsm:length _:length6624AW201101_6624AW201102;
+  rsm:value 7.2000005529928E13 .
+
+db:6624AW%201101_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.601510827532E6;
+  rsm:Y 4.56096693435946E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AW%201102 a rsm:SpotLocation;
+  rsm:coordinates db:6624AW%201102%20ER0 .
+
+db:6624AW%201102%206624AX%201101 a rsm:HorizontalSegmentLine;
+  rsm:length _:length6624AW201102_6624AX201101;
+  rsm:value 3.00639658660362E2 .
+
+db:6624AW%201102_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60143960381017E6;
+  rsm:Y 4.56097673843604E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AW%201301 a rsm:SpotLocation;
+  rsm:coordinates db:6624AW%201301%20ER0 .
+
+db:6624AW%201301_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60151082750544E6;
+  rsm:Y 4.56096693436058E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AW%201302 a rsm:SpotLocation;
+  rsm:coordinates db:6624AW%201302%20ER0 .
+
+db:6624AW%201302_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60143960378347E6;
+  rsm:Y 4.56097673844249E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AW%205000 a rsm:SpotLocation;
+  rsm:coordinates db:6624AW%205000%20ER0 .
+
+db:6624AW%205000_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60153080556466E6;
+  rsm:Y 4.56096761535388E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AW%205002 a rsm:SpotLocation;
+  rsm:coordinates db:6624AW%205002%20ER0 .
+
+db:6624AW%205002_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.6015108255819E6;
+  rsm:Y 4.56096693439101E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AW%205003 a rsm:SpotLocation;
+  rsm:coordinates db:6624AW%205003%20ER0 .
+
+db:6624AW%205003_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60135269275518E6;
+  rsm:Y 4.560994918602E12;
+  rsm:positioningSystem "ER0" .
+
+db:6624AW%205005 a rsm:SpotLocation;
+  rsm:coordinates db:6624AW%205005%20ER0 .
+
+db:6624AW%205005_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60133265751433E6;
+  rsm:Y 4.5609989227226E13;
+  rsm:positioningSystem "ER0" .
+
+db:6624AW%205007 a rsm:SpotLocation;
+  rsm:coordinates db:6624AW%205007%20ER0 .
+
+db:6624AW%205007_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60122990117947E6;
+  rsm:Y 4.5610186095041E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AX%201101 a rsm:SpotLocation;
+  rsm:coordinates db:6624AX%201101%20ER0 .
+
+db:6624AX%201101_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60114478357766E6;
+  rsm:Y 4.56103560483165E6;
+  rsm:positioningSystem "ER0" .
+
+db:6624AX%201301 a rsm:SpotLocation;
+  rsm:coordinates db:6624AX%201301%20ER0 .
+
+db:6624AX%201301_ER0 a rsm:CartesianCoordinate;
+  rsm:X 5.60114478357982E6;
+  rsm:Y 4.56103560483257E6;
+  rsm:positioningSystem "ER0" .
